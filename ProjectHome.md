@@ -1,0 +1,1 @@
+A project to develop a generic IPCam desktop viewer and a Windows Service to record data.
